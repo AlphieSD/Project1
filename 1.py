@@ -1,7 +1,10 @@
+
+#trying out python Creating Functions 
+
 import time
 
 
-#for checking things further on in the code
+#for checking things further on in the code *Developer Option 
 
 def lazykid():
     if input("1010,"+ " Press Enter") == "010":
